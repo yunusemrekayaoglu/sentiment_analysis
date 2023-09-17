@@ -1,4 +1,4 @@
-Hepsiburada E ticaret sitesinden veri çekerek Sentiment Analysis
+# Hepsiburada E ticaret sitesinden veri çekerek Sentiment Analysis
 
 ## 1. Ürün Çekme
 
@@ -22,7 +22,11 @@ buradaki veriyi alıp içerisindeki yorumu ve ürüne verilen yıldızı çekiyo
 Burada elimizde bulunan verileri daha temiz bir hale getiriyoruz. Türkçe harfleri, noktalama işaretleri ve özel karakterleri kullanarak temizliyoruz.
 Sonraki adımda bize en çok kullanılan 20 kelimeyi getirecek.
 ![image](https://github.com/yunusemrekayaoglu/hepsiburada_sentiment_analysis/assets/77890503/8c19e7e2-4ff6-4296-b629-954aad5cf4f9)
+
 En sondaki adımımızda ise bize wordCloud getirecek.
+
 ![image](https://github.com/yunusemrekayaoglu/hepsiburada_sentiment_analysis/assets/77890503/a9992395-ff61-47a7-9443-3221b218a5b9)
 
 ## 3. Öneri
+
+...
