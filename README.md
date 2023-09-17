@@ -34,6 +34,6 @@ In the last step, it will generate a word cloud for us.
 
 ![image](https://github.com/yunusemrekayaoglu/hepsiburada_sentiment_analysis/assets/77890503/a9992395-ff61-47a7-9443-3221b218a5b9)
 
-## 3. Öneri
+## 3. Recommendations
 
 ...
