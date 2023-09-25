@@ -1,4 +1,4 @@
-# Extracting Data from Hepsiburada E-commerce Website for Sentiment Analysis
+# Extracting Data from E-commerce Website for Sentiment Analysis
 
 
 ## 1. Data Extraction
